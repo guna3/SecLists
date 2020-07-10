@@ -1,10 +1,10 @@
-![seclists.png](https://danielmiessler.com/images/seclists-long.png "seclists.png")
+![seclists.png](https://ssgg25934.com/images/seclists-long.png "seclists.png")
 
 ### About SecLists
 
 SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more. The goal is to enable a security tester to pull this repository onto a new testing box and have access to every type of list that may be needed.
 
-This project is maintained by [Daniel Miessler](https://danielmiessler.com/), [Jason Haddix](https://twitter.com/Jhaddix), and [g0tmi1k](https://blog.g0tmi1k.com/).
+This project is maintained by [ssgg25934]☝🏻
 
 - - -
 
@@ -12,19 +12,19 @@ This project is maintained by [Daniel Miessler](https://danielmiessler.com/), [J
 
 **Zip**
 ```
-wget -c https://github.com/danielmiessler/SecLists/archive/master.zip -O SecList.zip \
+wget -c https://github.com/ssgg25934/SecLists/archive/master.zip -O SecList.zip \
   && unzip SecList.zip \
   && rm -f SecList.zip
 ```
 
 **Git (Small)**
 ```
-git clone --depth 1 https://github.com/danielmiessler/SecLists.git
+git clone --depth 1 https://github.com/ssgg25934/SecLists.git
 ```
 
 **Git (Complete)**
 ```
-git clone https://github.com/danielmiessler/SecLists.git
+git clone https://github.com/ssgg25934/SecLists.git
 ```
 
 **Kali Linux** ([Tool Page](https://tools.kali.org/password-attacks/seclists))
